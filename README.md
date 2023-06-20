@@ -18,3 +18,5 @@ Se trabajarán con los siguientes géneros de felinos:
 - Tigrillo
 - Caracal
 ## Implementacion
+1. Definición de diagrama UML para Superclase Felinos y clases hijas
+   ![UML](https://github.com/bryandelgado99/Herencias-Felinos/blob/8e41760d4e976631399f7db6838fd798ae9a22c3/UML%20%20-%20Felinos.png)
