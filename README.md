@@ -1,4 +1,4 @@
-# Felidae.Felinos con Herencias
+# Felinos con Herencias
 
 ## Instrucciones
 Con la temática felinos
@@ -14,6 +14,7 @@ Para este proyecto se emplearán 6 clases, una general para "Felidae.Felinos" y 
 Se trabajarán con los siguientes géneros de felinos:
 - Gatos
 - Linces
-- Felidae.Guepardo
-- Felidae.Tigrillo
-- Felidae.Caracal
+- Guepardo
+- Tigrillo
+- Caracal
+## Implementacion
