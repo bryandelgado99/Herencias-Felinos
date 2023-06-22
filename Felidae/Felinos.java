@@ -49,4 +49,9 @@ public class Felinos {
         System.out.println("Sn animales que no se encuentran extintos");
         return null;
     }
+
+    public void imprimir_Datos(){
+        System.out.println("\nEl nombre comun del felino es: " + nombre_comun);
+        System.out.println("El nombre cientifico del felino es: " + nombre_cientifico);
+    }
 }
