@@ -26,7 +26,7 @@ Se trabajarán con los siguientes géneros de felinos:
 - Clase Gato
    ![Gatos](https://github.com/bryandelgado99/Herencias-Felinos/blob/29b82aece5fc3b6c4003869877e6d5278fc5f3b6/assets/gato.png)
 - Clase Lince
-   ![Lince](https://github.com/bryandelgado99/Herencias-Felinos/blob/29b82aece5fc3b6c4003869877e6d5278fc5f3b6/assets/lince.png)
+   ![Lince](https://github.com/bryandelgado99/Herencias-Felinos/blob/979cd955c7bc7549a066b57359a5afda1e4db2f2/assets/lince.png)
 - Clase Guepardo
    ![Guepardo](https://github.com/bryandelgado99/Herencias-Felinos/blob/29b82aece5fc3b6c4003869877e6d5278fc5f3b6/assets/guepardo.png)
 - Clase Tigrillo
